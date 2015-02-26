@@ -1,0 +1,2 @@
+# think
+Linux learn
